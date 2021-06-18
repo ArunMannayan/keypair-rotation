@@ -1,1 +1,1 @@
-# keypair-rotation
+Project to change the key material of a currenlty active ssh key pair. The job describes how we find the instances that are using the key which we need to changed and how to change the key material with new one using Ansible.
